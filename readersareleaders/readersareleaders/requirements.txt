@@ -1,0 +1,4 @@
+requests
+youtube-search-python
+black[d]
+
